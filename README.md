@@ -24,7 +24,7 @@ COVID-19 pandemic showed us that we can be equally productive working & learning
 
 # How?
 
-## Github-as-a-Collaboration-Platform
+## Github-as-a-Learning-Platform
 
 Gitlab too! Regardless of preference, we should fully leverage all these awesome platforms. Benefits?
 
