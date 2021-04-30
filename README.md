@@ -8,7 +8,7 @@ Some of the things I did over the years:
 
 - As an Intern, implemented the first multi-user WinCE encryption solution deployed for Singapore Police Force Traffic Enforcement command
 - Knowledge transfer (from vendor's country to Singapore) & QA engineer who tested the first batch of E-Passport scanners deployed (& still in operations) within Singapore Immigration and Checkpoints Authority
-- Bug finder for (early version of) SingPass National Authentication Hardware-Security-Module "high-trust-zone" implementation
+- Bug finder for (early version of) SingPass National Authentication Hardware-Security-Module "Secured-Enclave" implementation
 - High-volume data-pipeline test design & execution for a Ministry's SOC
 - Delivered ST Engineering SOC on-time, on-target & within budget by leading technical specification, vendor evaluation & project leadership 
 - Trained interns, fresh-grads & mid-career as part of our Test-&-Evaluation team to objectively assess some state-of-the-art (then) stuff like Malware Sandboxes, Continuous Validation, Breach Simulation, Cyber-Range, UEBA, EDR, Browser-Isolation & so on that are now buzz words
