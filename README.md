@@ -2,7 +2,7 @@
 
 # Whoami
 
-Hi there! This is [Jym from Singapore](https://www.linkedin.com/in/jymcheong/). I am currently a Principle Engineer with [ST Engineering Info-Security Pte Ltd](https://www.stengg.com/cybersecurity) specialising in research translation. 
+Hi there! This is [Jym from Singapore](https://www.linkedin.com/in/jymcheong/). I am currently a Principle Engineer with [ST Engineering Info-Security Pte Ltd](https://www.stengg.com/cybersecurity). 
 
 Some of the things I did:
 
