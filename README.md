@@ -51,4 +51,12 @@ Some jobs are expecting some form of experience. Having a [Github account to sho
 
 Networking during Internship may be useful for specific companies, but your competency as an engineer that you can show-case in a borderless world could bring bigger opportunities beyond what you can find in your country.
 
+## Some Stuff from my previous Interns
+
+#### Attack Emulation (Pentest-as-Code) + Cyber Range Automation (Infra-as-Code)
+
+- [https://www.youtube.com/watch?v=FNpro0vE3dU](https://www.youtube.com/watch?v=FNpro0vE3dU)
+- [https://github.com/choongmun/Infrastructure-Automation](https://github.com/choongmun/Infrastructure-Automation)
+- [https://github.com/xxgrezxx/Attack-Automation](https://github.com/xxgrezxx/Attack-Automation)
+
 
