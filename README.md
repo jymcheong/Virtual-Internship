@@ -20,7 +20,7 @@ Some of the things I did over the years:
 
 > When we are willing to learn, we will make time & find the right resources to reach our goals.
 
-This COVID-19 pandemic showed us that we can be equally productive working & learning from anywhere other than office :D
+COVID-19 pandemic showed us that we can be equally productive working & learning from anywhere other than office :D
 
 # How?
 
