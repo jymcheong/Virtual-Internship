@@ -2,7 +2,7 @@
 
 # Whoami
 
-Hi there! This is [Jym from Singapore](https://www.linkedin.com/in/jymcheong/). I am a Principle Engineer with [ST Engineering Info-Security Pte Ltd](https://www.stengg.com/cybersecurity). 
+Hi there! This is [Jym from Singapore](https://www.linkedin.com/in/jymcheong/). I am a Principal Engineer with [ST Engineering Info-Security Pte Ltd](https://www.stengg.com/cybersecurity). 
 
 Some of the things I did:
 
