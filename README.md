@@ -4,7 +4,7 @@
 
 Hi there! This is [Jym from Singapore](https://www.linkedin.com/in/jymcheong/). I am a Principal Engineer with [ST Engineering Info-Security Pte Ltd](https://www.stengg.com/cybersecurity). 
 
-Some of the things I did:
+Some of the things I did over the years:
 
 - As an Intern, implemented the first multi-user WinCE encryption solution deployed for Singapore Police Force Traffic Enforcement command
 - Knowledge transfer (from vendor's country to Singapore) & QA engineer who tested the first batch of E-Passport scanners deployed (& still in operations) within Singapore Immigration and Checkpoints Authority
