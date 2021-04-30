@@ -49,7 +49,7 @@ Some jobs are expecting some form of experience. Having a [Github account to sho
 
 > You don't gain work-experience from reading textbooks or online guides, you should be solving something relevant.
 
-Networking with professionals during Internship may be useful for some companies, but showing your competency as reusable contribution could bring you bigger opportunities in a borderless world.
+Networking with professionals during Internship may be useful for some companies, but showing your competency as reusable contributions could bring you bigger opportunities in a borderless world.
 
 ## Some Stuff from my previous Interns
 
