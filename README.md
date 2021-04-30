@@ -10,17 +10,17 @@ Some of the things I did over the years:
 - Knowledge transfer (from vendor's country to Singapore) & QA engineer who tested the first batch of E-Passport scanners deployed (& still in operations) within Singapore Immigration and Checkpoints Authority
 - Bug finder for (early version of) SingPass National Authentication Hardware-Security-Module "high-trust-zone" implementation
 - High-volume data-pipeline test design & execution for a Ministry's SOC
-- End-to-end life-cycle from technical specification, vendor evaluation & technical leadership  to ensure ST Engineering SOC was delivered on-time, on-target & within budget
-- Trained a bunch of interns, fresh-grads & mid-career to form Test-&-Evaluation team to objectively assess some state-of-the-art (then) stuff like Malware Sandboxes, Continuous Validation, UEBA, EDR, Browser-Isolation & so on that become buzz words now
+- Delivered ST Engineering SOC on-time, on-target & within budget by leading technical specification, vendor evaluation & project leadership 
+- Trained interns, fresh-grads & mid-career as part of our Test-&-Evaluation team to objectively assess some state-of-the-art (then) stuff like Malware Sandboxes, Continuous Validation, UEBA, EDR, Browser-Isolation & so on that are now buzz words
 - Principle author of [OpenEDR](https://github.com/jymcheong/OpenEDR) (not to be confused with Comodo Security's version with the same name) & other [open-sourced tools](https://github.com/jymcheong).
 
 # Why Virtual Internship?
 
-[Sam Poder](https://www.linkedin.com/in/sam-poder/?originalSubdomain=sg) contacted me to ask if I was keen as a mentor with [CodeDay](https://www.codeday.org), but unfortunately I have limited bandwidth due to family & day-job commitments. Then I started wondering, why settle for "constraints" due to budget, office-space, school schedules & so on? 
+[Sam Poder](https://www.linkedin.com/in/sam-poder/?originalSubdomain=sg) contacted me to ask if I was keen as a mentor with [CodeDay](https://www.codeday.org), but unfortunately I have limited bandwidth due to family & day-job commitments. That encounter gave me an idea: why settle with "constraints" due to budget, office-space, school schedules & so on? 
 
 > When we are willing to learn, we will make time & find the right resources to reach our goals.
 
-This COVID-19 pandemic showed us that we can be equally productive working & learning from home.
+This COVID-19 pandemic showed us that we can be equally productive working & learning from anywhere other than office :D
 
 # How?
 
