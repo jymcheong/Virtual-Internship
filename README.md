@@ -33,7 +33,7 @@ Gitlab too! Regardless of preference, we should fully leverage all these awesome
 - Flexibility, we can turn `Issues` into anything by using appropriate tags. 
 - Comments & notifications for async communications
 
-## Reusable Mini-Problems for Students
+## Mini-Problems for Students
 
 As a team-lead of my office's Test-&-Evaluation group, I once tasked a mid-career programmer to write a simple program by ***spelling out some technical specifications***. 
 
