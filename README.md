@@ -11,7 +11,7 @@ Some of the things I did over the years:
 - Bug finder for (early version of) SingPass National Authentication Hardware-Security-Module "high-trust-zone" implementation
 - High-volume data-pipeline test design & execution for a Ministry's SOC
 - Delivered ST Engineering SOC on-time, on-target & within budget by leading technical specification, vendor evaluation & project leadership 
-- Trained interns, fresh-grads & mid-career as part of our Test-&-Evaluation team to objectively assess some state-of-the-art (then) stuff like Malware Sandboxes, Continuous Validation, UEBA, EDR, Browser-Isolation & so on that are now buzz words
+- Trained interns, fresh-grads & mid-career as part of our Test-&-Evaluation team to objectively assess some state-of-the-art (then) stuff like Malware Sandboxes, Continuous Validation, Breach Simulation, Cyber-Range, UEBA, EDR, Browser-Isolation & so on that are now buzz words
 - Principle author of [OpenEDR](https://github.com/jymcheong/OpenEDR) (not to be confused with Comodo Security's version with the same name) & other [open-sourced tools](https://github.com/jymcheong).
 
 # Why Virtual Internship?
