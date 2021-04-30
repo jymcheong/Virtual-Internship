@@ -47,9 +47,9 @@ Similarly for this Virtual-Internship, I will craft a series of [Issues](https:/
 
 Some jobs are expecting some form of experience. Having a [Github account to show your contributions is helpful](https://www.reddit.com/r/datascience/comments/7fyir1/do_employers_look_at_github_projects/): 
 
-> You don't gain work-experience from reading textbooks, you should be solving something relevant.
+> You don't gain work-experience from reading textbooks or online guides, you should be solving something relevant.
 
-Networking during Internship may be useful for specific companies, but your competency as an engineer that you can show-case in a borderless world could bring bigger opportunities beyond what you can find in your country.
+Networking with professionals during Internship may be useful for some companies, but showing your competency as reusable contribution could bring you bigger opportunities in a borderless world.
 
 ## Some Stuff from my previous Interns
 
