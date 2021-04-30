@@ -35,7 +35,7 @@ Gitlab too! Regardless of preference, we should fully leverage all these awesome
 
 ## Mini-Problems for Active-Learners
 
-As a team-lead of my office's Test-&-Evaluation group, I once tasked a mid-career programmer was transferring to our department to write a simple program by ***spelling out some technical specifications***. 
+As a team-lead of my office's Test-&-Evaluation group, I once tasked a mid-career programmer (who was transferring to our department) to write a simple program by ***giving him some technical specifications***. 
 
 After which, he coded the simple background/hidden app & we tested on our office laptops that were being monitored by so call "State-of-the-Art" detection manned by a team of monitoring crew. No one stopped us from "stealing" files from our own laptop with his custom malware. 
 
