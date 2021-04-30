@@ -18,7 +18,7 @@ Some of the things I did:
 
 [Sam Poder](https://www.linkedin.com/in/sam-poder/?originalSubdomain=sg) contacted me to ask if I was keen as a mentor with [CodeDay](https://www.codeday.org), but unfortunately I have limited bandwidth due to family & day-job commitments. Then I started wondering, why settle for "constraints" due to budget, office-space, school schedules & so on? 
 
-> When we are willing to learn, we should make time & find the right resources to reach goals.
+> When we are willing to learn, we will make time & find the right resources to reach our goals.
 
 This COVID-19 pandemic showed us that we can be equally productive working & learning from home.
 
