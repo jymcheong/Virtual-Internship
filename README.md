@@ -16,7 +16,7 @@ Some of the things I did over the years:
 
 # Why Virtual Internship?
 
-[Sam Poder](https://www.linkedin.com/in/sam-poder/?originalSubdomain=sg) contacted me to ask if I was keen as a mentor with [CodeDay](https://www.codeday.org), but unfortunately I have limited bandwidth due to family & day-job commitments. That encounter gave me an idea: why settle with "constraints" due to budget, office-space, school schedules & so on? 
+[Sam Poder](https://www.linkedin.com/in/sam-poder/?originalSubdomain=sg) contacted me to ask if I was keen as a mentor with [CodeDay](https://www.codeday.org) for APAC region, but unfortunately I have limited bandwidth due to family & day-job commitments. That encounter gave me an idea: why settle with "constraints" due to budget, office-space, school schedules & so on? 
 
 > When we are willing to learn, we will make time & find the right resources to reach our goals.
 
