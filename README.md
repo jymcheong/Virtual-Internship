@@ -41,7 +41,7 @@ After which, he coded the simple background/hidden app & we tested on our office
 
 > I taught him & my bosses a simple but important lesson; writing evasive malware is not rocket-science.   
 
-Similarly for this Virtual-Internship, I will craft a series of [Issues](https://github.com/jymcheong/Virtual-Internship/issues) for those who are willing to explore & learn in the process of solving them. I will make time to provide pointers & recommendations but don't dig my brain for free consultancy please ;P 
+Similarly for this Virtual-Internship, I will craft a series of "[Issues](https://github.com/jymcheong/Virtual-Internship/issues)" for those who are willing to explore & learn in the process of solving them. I will make time to provide pointers & recommendations but don't dig my brain for free consultancy please ;P 
 
 Professionals who want to provide mini-problems for students are welcomed! Let's get in touch either here @ Github or [LinkedIn](https://www.linkedin.com/in/jymcheong/).
 
