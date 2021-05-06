@@ -7,7 +7,7 @@ Hi there! This is [Jym from Singapore](https://www.linkedin.com/in/jymcheong/). 
 Things I did over the years:
 
 - As an Intern, implemented the first multi-user WinCE encryption solution deployed for Singapore Police Force Traffic Enforcement command
-- Knowledge transfer (from vendor's country to Singapore) & QA engineer who tested the first batch of E-Passport scanners deployed (& still in operations) within Singapore Immigration and Checkpoints Authority
+- Knowledge transfer (from vendor's country to Singapore) & doubled-up QA engineer who tested the first batch of E-Passport scanners deployed (& still in operations) within Singapore Immigration and Checkpoints Authority
 - Bug finder for (early version of) SingPass National Authentication Hardware-Security-Module "Secured-Enclave" implementation
 - High-volume data-pipeline test design & execution for a Ministry's SOC
 - Delivered ST Engineering SOC on-time, on-target & within budget by leading technical specification, vendor evaluation & project leadership 
