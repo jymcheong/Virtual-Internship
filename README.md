@@ -10,7 +10,7 @@ Things I did over the years:
 - Knowledge transfer (from vendor's country to Singapore) & doubled-up as QA engineer who tested the first batch of E-Passport scanners deployed (& still in operations) within Singapore Immigration and Checkpoints Authority
 - Bug finder for (early version of) SingPass National Authentication Hardware-Security-Module "Secured-Enclave" implementation
 - High-volume data-pipeline test design & execution for a Ministry's SOC
-- Delivered ST Engineering SOC on-time, on-target & within budget by leading technical specification, vendor evaluation & technical leadership 
+- Delivered ST Engineering SOC on-time, on-target & within budget by leading tender specifications, vendor evaluation & technical leadership 
 - Trained interns, fresh-grads & mid-career as part of our Test-&-Evaluation team to objectively assess some state-of-the-art (then) stuff like Malware Sandboxes, Continuous Validation, Breach Simulation, Cyber-Range, UEBA, EDR, Browser-Isolation & so on that are now buzz words
 - Principle author of [OpenEDR](https://github.com/jymcheong/OpenEDR) (not to be confused with Comodo Security's version with the same name) & other [open-sourced tools](https://github.com/jymcheong).
 
