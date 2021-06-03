@@ -34,6 +34,9 @@ Gitlab too! Regardless of preference, we should fully leverage all these awesome
 - Flexibility, we can turn `Issues` into anything by using appropriate tags. 
 - Comments & notifications for async communications
 
+## Notion for Productivity
+Have a look at YJ's internship: https://www.notion.so/jymcheong/YJ-s-Internship-c9c14b6f5c8e4827b8b0a9f33c499137
+
 ## Mini-Problems for Active-Learners
 
 As a team-lead of my office's Test-&-Evaluation group, I once tasked a mid-career programmer (who was transferring to our department) to write a simple program by ***giving him some technical specifications***. 
