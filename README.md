@@ -34,6 +34,8 @@ Gitlab too! Regardless of preference, we should fully leverage all these awesome
 - Flexibility, we can turn `Issues` into anything by using appropriate tags. 
 - Comments & notifications for async communications
 
+Don't take my word for it: https://medium.com/@johnlatwc/the-githubification-of-infosec-afbdbfaad1d1
+
 ## Notion for Productivity
 Have a look at YJ's internship: https://www.notion.so/jymcheong/YJ-s-Internship-c9c14b6f5c8e4827b8b0a9f33c499137
 
