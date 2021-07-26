@@ -23,6 +23,11 @@ Things I did over the years:
 
 COVID-19 pandemic showed us that we can be equally productive working & learning from anywhere other than office :D
 
+# What?
+![IMG_3249](https://user-images.githubusercontent.com/11232021/126925857-427355d4-ed8b-4b35-b81e-cac642bf41f2.jpeg)
+
+![IMG_3250](https://user-images.githubusercontent.com/11232021/126925926-a16fec0e-45b9-481a-bf04-8fc7f69603c0.jpeg)
+
 # How?
 
 ## Github-as-a-Learning-Platform
